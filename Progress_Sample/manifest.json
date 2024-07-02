@@ -1,0 +1,24 @@
+{
+    "schema": "1.0",
+    "details": {
+        "displayName": "ModernApp",
+        "description": "",
+        "createdTime": "2024-06-24T07:42:04.5578383Z",
+        "packageTelemetryId": "460ffe31-5959-445a-a3fe-ffe9199b5b05",
+        "creator": "Toshihiko Iwamoto",
+        "sourceEnvironment": "Toshihiko Iwamoto's Environment"
+    },
+    "resources": {
+        "89aaec62-099b-42f7-aabe-a794e75f1bbe": {
+            "type": "Microsoft.PowerApps/apps",
+            "suggestedCreationType": "New",
+            "creationType": "New, Update",
+            "details": {
+                "displayName": "ModernApp",
+                "comment": "自身の環境に合わせて設定してください"
+            },
+            "configurableBy": "User",
+            "dependsOn": []
+        }
+    }
+}
